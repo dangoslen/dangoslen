@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @dangoslen
 
 ### I'm helping developers avoid burnout. 
-#### I write about sustainable development practices and learning-in-public on [my blog](dangoslen.me).
+#### I write about sustainable development practices and learning-in-public on [my blog](https://dangoslen.me).
 
 ---
 
