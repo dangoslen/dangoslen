@@ -1,7 +1,6 @@
 # 👋 Hi, I’m @dangoslen
 
-### Trying to help devs avoid burnout.
-#### I write about software engineering on [my blog](https://dangoslen.me) and share thoughts as a go along on [Twitter](https://twitter.com/@dangoslen)
+### I write about software engineering on [my blog](https://dangoslen.me) and share thoughts as a go along on [Twitter](https://twitter.com/@dangoslen)
 
 ---
 
