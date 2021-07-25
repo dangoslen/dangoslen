@@ -14,7 +14,7 @@
 
 ---
 
-#### You can find me on [Medium](https://dangoslen.medium.com/), [Twitter](https://twitter.com/@dangoslen) and [LinkedIn](https://linkedin.com/in/dangoslen). Message me [Twitter](https://twitter.com/@dangoslen) or [LinkedIn](https://linkedin.com/in/dangoslen) for anything related to what I'm learning and writing about.
+#### You can find me on [Medium](https://dangoslen.medium.com/), [Twitter](https://twitter.com/@dangoslen) and [LinkedIn](https://linkedin.com/in/dangoslen). DMs are open if you want to chat!
 
 <!---
 dangoslen/dangoslen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
