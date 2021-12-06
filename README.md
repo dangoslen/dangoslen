@@ -5,7 +5,7 @@
   - [Gatsby](gatsby.js)
   - [Go](golang.org)
   - Marketing
-  - UX
+  - GCP
 
 #### And I really enjoy discussing
   - DevOps
@@ -14,7 +14,7 @@
 
 ---
 
-#### You can find me on [Medium](https://dangoslen.medium.com/), [Twitter](https://twitter.com/@dangoslen) and [LinkedIn](https://linkedin.com/in/dangoslen). DMs are open if you want to chat!
+#### You can find me on [Medium](https://dangoslen.medium.com/), [Twitter](https://twitter.com/@dangoslen) and [LinkedIn](https://linkedin.com/in/dangoslen). DMs are open if you ever want to chat or ask a question!
 
 <!---
 dangoslen/dangoslen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
