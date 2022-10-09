@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @dangoslen
 
+### I'm currently working on a [book on code reviews](https://dangoslen.me/book)! I'd love for you to check it out!
+
 ---
 #### I’m currently learning
   - [Gatsby](gatsby.js)
