@@ -1,18 +1,23 @@
 # 👋 Hi, I’m @dangoslen
 
-### I'm currently working on a [book on code reviews](https://dangoslen.me/book)! I'd love for you to check it out!
+I help engineering teams become the best they can be. I have a [newsletter](https://dangoslen.me/newsletter/), a [blog](https://dangoslen.me/blog), and a few projects (👇) to help teams do just that.
+
+* Changelog management ([Changelog Enforcer](https://github.com/dangoslen/changelog-enforcer), [Dependabot Changelog Helper](https://github.com/dangoslen/dependabot-changelog-helper))
+* [Pull request template](https://dangoslen.me/pull-request-template/#pr-template)
+* An upcoming [book on code reviews](https://dangoslen.me/book)
 
 ---
+
 #### I’m currently learning
-  - [Gatsby](gatsby.js)
   - [Go](golang.org)
   - Marketing
+  - Content Creation
   - GCP
 
 #### And I really enjoy discussing
   - DevOps
   - Software engineering
-  - Code reivews
+  - Code reviews
 
 ---
 
