@@ -9,7 +9,7 @@ I help engineering teams become the best they can be. I have a [newsletter](http
 ---
 
 #### I’m currently learning
-  - [Go](golang.org)
+  - [Go](https://golang.org)
   - Marketing
   - Content Creation
   - GCP
