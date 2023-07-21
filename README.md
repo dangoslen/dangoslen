@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @dangoslen
+# 👋 Hi, I’m Dan
 
 I help engineering teams become the best they can be. I have a [newsletter](https://dangoslen.me/newsletter/), a [blog](https://dangoslen.me/blog), and a few projects (👇) to help teams do just that.
 
