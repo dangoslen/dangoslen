@@ -11,19 +11,18 @@ I'm also helping software devs build their teams. I have a 📰 [newsletter](htt
 ---
 
 #### I’m currently learning
-  - [Go](https://golang.org)
-  - Marketing
+  - Typescript / NestJS
   - Content Creation
-  - GCP
+  - AWS (more like re-learning... but things change fast!)
 
-#### And I really enjoy discussing
-  - DevOps
-  - Software engineering
+#### I really enjoy discussing
+  - Software engineering best practices
+  - Team-building
   - Code reviews
 
 ---
 
-#### You can find me on [Medium](https://dangoslen.medium.com/), [Twitter](https://twitter.com/@dangoslen) and [LinkedIn](https://linkedin.com/in/dangoslen). DMs are open if you ever want to chat or ask a question!
+#### You can find me on [Medium](https://dangoslen.medium.com/), and [LinkedIn](https://linkedin.com/in/dangoslen) too. DMs are open if you ever want to chat or ask a question!
 
 <!---
 dangoslen/dangoslen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
