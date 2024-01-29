@@ -13,12 +13,13 @@ I'm also helping software devs build their teams. I have a 📰 [newsletter](htt
 #### I’m currently learning
   - Typescript / NestJS
   - Content Creation
-  - AWS (more like re-learning... but things change fast!)
+  - AWS (more like re-learning... things change fast!)
 
 #### I really enjoy discussing
   - Software engineering best practices
   - Team-building
   - Code reviews
+  - Why I love GoLang
 
 ---
 
