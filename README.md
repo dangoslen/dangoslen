@@ -1,3 +1,5 @@
+![Banner](https://github.com/dangoslen/dangoslen/assets/1466246/dd4a7c5a-e34a-4fab-9663-9666eb8fedfc)
+
 # 👋 Hi, I’m Dan
 
 I'm a husband, dad, software engineer, and outdoor enthusiast. 
@@ -6,7 +8,7 @@ I'm also helping software devs build their teams. I have a 📰 [newsletter](htt
 
 * Changelog management ([Changelog Enforcer](https://github.com/dangoslen/changelog-enforcer), [Dependabot Changelog Helper](https://github.com/dangoslen/dependabot-changelog-helper))
 * [Pull request template](https://dangoslen.me/pull-request-template/#pr-template)
-* An upcoming 📘 [book on code reviews](https://dangoslen.me/book)
+* 📘 [Code Review Champion](https://dangoslen.me/book)
 
 ---
 
