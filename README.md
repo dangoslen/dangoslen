@@ -1,4 +1,4 @@
-![Banner](https://github.com/dangoslen/dangoslen/assets/1466246/dd4a7c5a-e34a-4fab-9663-9666eb8fedfc)
+![Banner](https://github.com/dangoslen/dangoslen/assets/1466246/be2c8413-c74f-4672-bfe7-99ad9b555a08)
 
 # 👋 Hi, I’m Dan
 
