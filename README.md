@@ -8,7 +8,7 @@
 
 I'm a husband, dad, software engineer, and outdoor enthusiast. 
 
-I'm also helping software devs build their teams. I have a 📰 [newsletter](https://dangoslen.me/newsletter/), a ✍️ [blog](https://dangoslen.me/blog), and a few projects (👇) to help teams do just that.
+I'm also helping software devs build their teams. I have a ✍️ [blog](https://dangoslen.me/blog) and a few projects (👇) to help teams do just that.
 
 * Changelog management ([Changelog Enforcer](https://github.com/dangoslen/changelog-enforcer), [Dependabot Changelog Helper](https://github.com/dangoslen/dependabot-changelog-helper))
 * [Pull request template](https://dangoslen.me/pull-request-template/#pr-template)
